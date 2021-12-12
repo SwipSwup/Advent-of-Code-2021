@@ -1,0 +1,7 @@
+﻿  BinaryDiagnostic.cpp
+S:\Projects\Advent of code\2021\Advent of Code 2021\Advent of Code 2021\src\Day3\BinaryDiagnostic.cpp(13,21): warning C4018: '<': signed/unsigned mismatch
+S:\Projects\Advent of code\2021\Advent of Code 2021\Advent of Code 2021\src\Day3\BinaryDiagnostic.cpp(21,29): warning C4018: '>=': signed/unsigned mismatch
+S:\Projects\Advent of code\2021\Advent of Code 2021\Advent of Code 2021\src\Day3\BinaryDiagnostic.cpp(22,33): warning C4018: '<=': signed/unsigned mismatch
+S:\Projects\Advent of code\2021\Advent of Code 2021\Advent of Code 2021\src\Day3\BinaryDiagnostic.cpp(50,38): warning C4018: '>=': signed/unsigned mismatch
+S:\Projects\Advent of code\2021\Advent of Code 2021\Advent of Code 2021\src\Day3\BinaryDiagnostic.cpp(82,11): warning C4018: '>=': signed/unsigned mismatch
+  Advent of Code 2021.vcxproj -> S:\Projects\Advent of code\2021\Advent of Code 2021\Debug\Advent of Code 2021.exe
